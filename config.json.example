@@ -1,0 +1,24 @@
+{
+  "module": "neuro_commenting",
+  "target_mode": "subscriptions",
+  "accounts_per_run": 5,
+  "comment_mode": "ai_by_post",
+  "message_template": "Отличный пост, спасибо за разбор.",
+  "limits": {
+    "comments_per_account": 15,
+    "global_comments_limit": 120
+  },
+  "delays": {
+    "before_send_sec": [20, 45],
+    "between_comments_sec": [60, 120]
+  },
+  "discussion": {
+    "auto_join": true,
+    "leave_if_no_rights": true
+  },
+  "ai": {
+    "enabled": true,
+    "provider": "openai",
+    "goal": "Писать короткие естественные комментарии по содержимому поста"
+  }
+}
