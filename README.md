@@ -41,6 +41,14 @@
 - [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram), если после комментариев нужен переход в личный диалог.
 - [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram), если параллельно нужен сценарий поиска и подготовки базы.
 
+## Куда этот сценарий часто расширяют
+
+- [Нейрочаттинг](https://github.com/Deskgram-2/telegram-neuro-chatting-deskgram), если AI-активность переносится из комментариев в живые чаты и группы;
+- [Автоответчик](https://github.com/Deskgram-2/telegram-autoresponder-deskgram), если после комментариев важно не терять входящие ответы;
+- [Нейрорассылка](https://github.com/Deskgram-2/telegram-neuro-mailing-deskgram), если дальше нужен управляемый AI-диалог в личке;
+- [Массовые подписки](https://github.com/Deskgram-2/telegram-join-groups-deskgram), если перед комментингом или после него аккаунты готовятся через сообщества;
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram), если нужно централизованно контролировать всю цепочку активности.
+
 ## Интерфейс модуля
 
 ### Конструктор комментариев
@@ -85,6 +93,10 @@
 - [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram)
 - [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram)
 - [Настройки автоматизации](https://github.com/Deskgram-2/telegram-automation-settings-deskgram)
+- [Нейрочаттинг](https://github.com/Deskgram-2/telegram-neuro-chatting-deskgram)
+- [Автоответчик](https://github.com/Deskgram-2/telegram-autoresponder-deskgram)
+- [Нейрорассылка](https://github.com/Deskgram-2/telegram-neuro-mailing-deskgram)
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram)
 
 ## FAQ
 
