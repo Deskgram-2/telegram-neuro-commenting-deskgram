@@ -34,6 +34,13 @@
 4. При необходимости включите автоответчик и работу с обсуждениями.
 5. Назначьте аккаунты и запустите задачу.
 
+## Что полезно подключить рядом
+
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram), если сначала нужно подготовить рабочую сетку аккаунтов.
+- [Настройки автоматизации](https://github.com/Deskgram-2/telegram-automation-settings-deskgram), если вы используете AI-провайдеров и системные параметры.
+- [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram), если после комментариев нужен переход в личный диалог.
+- [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram), если параллельно нужен сценарий поиска и подготовки базы.
+
 ## Интерфейс модуля
 
 ### Конструктор комментариев
@@ -76,6 +83,8 @@
 - [Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation)
 - [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram)
 - [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram)
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram)
+- [Настройки автоматизации](https://github.com/Deskgram-2/telegram-automation-settings-deskgram)
 
 ## FAQ
 
