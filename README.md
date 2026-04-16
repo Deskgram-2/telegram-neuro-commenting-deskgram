@@ -4,7 +4,14 @@
 
 `Нейрокомментинг` — это модуль Deskgram 2 для автоматического комментирования новых постов в Telegram-каналах. Он сочетает мониторинг публикаций, шаблонные и AI-комментарии, настройку лимитов, задержек, исключений и вспомогательные сценарии вроде автоответов.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+## Интерактивный Web Preview
+
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurocommenting)
+
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurocommenting)
+
+
 
 ## Кратко о модуле
 
